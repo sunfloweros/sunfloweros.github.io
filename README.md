@@ -1,5 +1,7 @@
 # sunfloweros.github.io
 A new kind of Linux for the Smartphone
+
+
 Hi, my name is Matt Walker,
 I am a part time tech hobbyist who enjoys playing with all sorts of electronics,
 from a 1980's Heathkit HERO-1 Robot to modern smartphones. My current projects include the 
