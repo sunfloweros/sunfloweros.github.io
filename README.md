@@ -1,5 +1,5 @@
 # sunfloweros.github.io
-A new kind of Linux for the Smartphone
+A new kind of Linux for ARM.
 
 
 Hi, my name is Matt Walker,
